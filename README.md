@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Vince
 
-My passion is crafting performant, beautiful, accessible, experiences and empowering other developers and designers to do the same.
-
-I work on Carbon, IBM's open source design system, where I develop tools that enable content authors from all disciplines to speak IBM's design language.
+> My passion is crafting performant, beautiful, accessible, experiences and empowering other developers and designers to do the same. I work on Carbon, IBM's open source design system, where I develop tools that enable content authors from all disciplines to speak IBM's design language.
 
 - 💻 You can check out some of my work and talks at [vincepic.one](https://vincepic.one)
 - 🔭 I’m currently working on the [Carbon](https://carbondesignsystem.com), IBM's open source design system
